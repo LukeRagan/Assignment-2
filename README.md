@@ -7,3 +7,5 @@ After each question you will input your answer then press enter to continue to t
 ![CS303_Assignment2SS4](https://user-images.githubusercontent.com/114009922/196588769-716eeb2d-c328-4a70-917a-331d087b9902.png)
 ![CS303_Assignment2SS5](https://user-images.githubusercontent.com/114009922/196588771-d725d14f-80fa-4524-8fcf-2c08e53d69bd.png)
 ![CS303_Assignment2SS2](https://user-images.githubusercontent.com/114009922/196588772-351aac8c-08b4-4780-93f7-8eac0852a7c6.png)
+![CS303_Assignment2SS6](https://user-images.githubusercontent.com/114009922/196592577-ff53208c-6a05-4a2a-9201-97a0927256b3.png)
+![CS303_Assignment2SS7](https://user-images.githubusercontent.com/114009922/196592585-4a930b5e-8016-409b-9eb5-549aedf8c6c1.png)

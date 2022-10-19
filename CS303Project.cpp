@@ -59,7 +59,7 @@ int main()
         }
     }
     std::cout << " " << "\n";
-
+    // runs this block of code under a try block.
     try {
         std::cout << "What index in the array do you want to change: ";
         int intChanged;
@@ -77,13 +77,13 @@ int main()
             std::cout << "The old index " << intChanged << " is now " << num[intChanged] << "\n";
         }
         else {
-            throw(ChangedTo);
+            throw(ChangedTo); // throws code to the catch block and handles the error.
         }
     }
     catch (int changedNum) {
         cout << "Cannot use that number.\n";
     }
-
+    // asks user what integer they want to add to the end of the array.
     try {
         std::cout << "What integer do you want to add to the end of the array: ";
         int newInt;
@@ -97,10 +97,11 @@ int main()
             }
         }
         else {
+            // if the newInt is less than 0 throws code.
             throw (newInt);
         }
     }
-    catch (int myNum) {
+    catch (int myNum) { // catches code thrown and outputs error message.
         cout << "Cannot use that number.\n";
     }
     return 0;
